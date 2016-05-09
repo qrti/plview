@@ -1,6 +1,11 @@
 # plview
 
 #### visualize temperature and humidity received by [pilight](https://github.com/pilight/pilight)  
+- multiple sensore monitore
+- six step tendency display
+- receive and validity history
+- console, SSH terminal, LCD display
+- configurable
 
 ![screenshot](images/screen01.png)
 
@@ -28,7 +33,6 @@ clone repository to current directory
 
 #### configure  
 
-
 - - -
 
 #### execute  
@@ -42,8 +46,6 @@ execute
 
 #### remarks  
 
-
-
 Donations are welcome!
 
 [![https://www.paypal.com](https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JNEDMHAJ3TJ)
@@ -51,7 +53,7 @@ Donations are welcome!
 - - -
 
 #### copyright  
-shrink is published under the terms of ISC license
+plview is published under the terms of ISC license
 
 Copyright (c) 2016 [qrt@qland.de](mailto:qrt@qland.de)
 
