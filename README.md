@@ -31,8 +31,8 @@ clone repository to current directory
 
 pilight config file must contain a datetime device entry
 
-`sudo service pilight stop`
-`sudo nano /etc/pilight/config.json`
+`$ sudo service pilight stop`  
+`$ sudo nano /etc/pilight/config.json`
 
 ```
 "devices": {
@@ -53,7 +53,7 @@ pilight config file must contain a datetime device entry
     }
 }
 ```
-`sudo service pilight start`
+`$ sudo service pilight start`
 
 - - -
 
