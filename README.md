@@ -1,7 +1,7 @@
 # plview
 
 #### visualize temperature and humidity received by [pilight](https://github.com/pilight/pilight)  
-- multiple sensore monitore
+- multiple sensore monitor
 - six step tendency display
 - receive and validity history
 - console, SSH terminal, LCD display
